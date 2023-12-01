@@ -2,7 +2,7 @@
 <p>
 </p>
 
-This repository contains a simple and versatile QR code generator written in HTML,CSS and JavaScript. With this tool, you can easily generate QR codes for various purposes, such as encoding text, URLs, contact information, and more.
+This repository contains a simple and versatile QR code generator written in HTML, CSS and JavaScript. With this tool, you can easily generate QR codes for various purposes, such as encoding text, URLs, contact information, and more.
 
 ## Features
 
